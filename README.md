@@ -40,7 +40,7 @@ This system is ideal for:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/punithkrishnakeepudi/Real-Time-Object-Theft-Detection-Using-YOLOv8.git)
 cd your-repo-name
 
 # Install dependencies
