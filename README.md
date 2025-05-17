@@ -41,7 +41,11 @@ This system is ideal for:
 ```bash
 # Clone this repository
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/punithkrishnakeepudi/Real-Time-Object-Theft-Detection-Using-YOLOv8.git)
-cd your-repo-name
+cd Real-Time-Object-Theft-Detection-Using-YOLOv8
+
+# Create virtual environment (optional)
+python -m venv venv
+venv\Scripts\activate
 
 # Install dependencies
-pip install opencv-python ultralytics numpy
+pip install -r requirements.txt
